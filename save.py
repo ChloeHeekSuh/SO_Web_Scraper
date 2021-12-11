@@ -20,5 +20,5 @@ def save_file_to_s3():
             aws_access_key_id=KEY_ID,
             aws_secret_access_key=SECRET_KEY
     )
-    s3.upload_file(r"C:/PlayWithCode/Nomad_coder/python/crawling_test/jobs.csv", 'chloe-project-input', 'so_jobs.csv')
+    s3.upload_file(r"YOUR/FILE/PATH", 'YOUR/BUCKET/NAME', 'FILE_NAME_YOU_WANT_TO_SAVE_IN_S3')
     print("successfully saved!")
