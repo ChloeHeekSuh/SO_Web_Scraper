@@ -1,2 +1,2 @@
-KEY_ID = "AKIAWXMXQAET7YSUTI6A"
-SECRET_KEY = "JmEX/FwxSCIXxVPCfPXvwY4jMUg5k4eFW16zoWm7"
+KEY_ID = "your_aws_access_key_id"
+SECRET_KEY = "your_aws_secret_access_key"
