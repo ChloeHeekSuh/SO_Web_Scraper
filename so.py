@@ -15,11 +15,8 @@ def get_last_page():
 
 def extract_job(html):
     title = html.find("h2", {"class":"mb4"}).find("a")['title']
-    # print(title)
     company = html.find("h3", {"class":"fc-black-700"}).find("span").text.strip()
-    # print(company)
     location = html.find("h3", {"class":"fc-black-700"}).find("span", {"class":"fc-black-500"}).text.strip()
-    # print(location)
     job_id = html['data-jobid']
     return {
             "title":title,
