@@ -33,4 +33,4 @@ $ pip install -r requirements.txt
 ```
 
 ## Demo
-
+![DIAGRAM](https://github.com/ChloeHeekSuh/SO_Web_Scraper/blob/main/screenshot/scraper_1.png)
