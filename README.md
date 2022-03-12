@@ -25,7 +25,7 @@ Use the git clone command along with the copied URL.
 $ git clone https://github.com/ChloeHeekSuh/SO_Web_Scraper.git
 ```
 
-And install all requirements if you want to run it on the same enviroment. \
+And install all requirements if you want to run it in the same environment. \
 For that locally using pip:
 
 ```
