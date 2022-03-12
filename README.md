@@ -1,4 +1,5 @@
 # Job posts Web Scraper
+A web scraper for scraping job posts in Stack Overflow
 
 ## Table of contents
 * [Introduction](#introduction)
