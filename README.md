@@ -31,7 +31,7 @@ Run the code, then this will save the data to CSV file.
 \
 ![DIAGRAM](https://github.com/ChloeHeekSuh/SO_Web_Scraper/blob/main/screenshot/scraper_1.png)
 \
-What will you do with this CSV file is depends on you.\
+What you will do with this CSV file is depends on you.\
 For now, let's simply use this CSV file to analyze the data or apply for the jobs easily with the link with Google Sheets.
 \
 ![DIAGRAM](https://github.com/ChloeHeekSuh/SO_Web_Scraper/blob/main/screenshot/scraper_2.png)
