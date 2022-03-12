@@ -39,4 +39,4 @@ For now, let's simply use this CSV file to analyze the data or apply for the job
 Go to 'File' > 'import'\
 Change the separator type to 'Comma' and import the data.
 \
-![DIAGRAM](https://github.com/ChloeHeekSuh/SO_Web_Scraper/blob/main/screenshot/scraper_2.png)
+![DIAGRAM](https://github.com/ChloeHeekSuh/SO_Web_Scraper/blob/main/screenshot/scraper_3.png)
